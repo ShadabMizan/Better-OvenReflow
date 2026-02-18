@@ -1,0 +1,4 @@
+src/__LOAD.bat
+src/__a51.bat
+src/*.hex
+src/*.lst
